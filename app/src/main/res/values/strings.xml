@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BMI_ViewModel</string>
+    <string name="body_mass_index">Body mass index is %.2f</string>
+</resources>
